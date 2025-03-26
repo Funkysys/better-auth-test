@@ -19,6 +19,8 @@ DATABASE_URL=mysql://user:password@localhost:3306/databasename
 
 ```
 
+then create your mysql database (or change database configuration in .env and schema)
+
 finally, run the development server:
 
 ```bash
